@@ -52,7 +52,7 @@ echo "|  Tiago .__|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |    |"
+echo "    |      | tiago bot |    |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -73,10 +73,10 @@ clear
 sleep 2
 echo "          $merah   instalando o segundo login"
 sleep 2
-git clone https://github.com/Darkziinh/SITEX
-git clone https://github.com/Darkziinh/apikey
-git clone https://github.com/Darkziinh/testek
-cd darkbot3.0
+git clone https://github.com/Darkziih/SITEX
+git clone https://github.com/Darkziih/apikey
+git clone https://github.com/Darkziih/testek
+cd darkbot3.0-main
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
